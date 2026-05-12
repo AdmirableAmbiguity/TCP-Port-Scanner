@@ -48,7 +48,7 @@ int main()
         }
         else
         {
-            // closed port
+            
         }
 
         closesocket(s);
